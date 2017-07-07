@@ -1,0 +1,71 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7682]
+    Renderer: NVIDIA GeForce 940MX
+    Vendor:   NVIDIA
+    VRAM:     2020 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.139 seconds
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7682]
+    Renderer: NVIDIA GeForce 940MX
+    Vendor:   NVIDIA
+    VRAM:     2020 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DIPANSH KHANDELWAL\Desktop\un\pin\Pinball\Pinball\MainGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.863147 ms
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Board/Floor", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 0)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2640 -> priority: 1 
+hello
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+hello
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+hello
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+hello
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
